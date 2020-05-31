@@ -21,7 +21,7 @@ by [Yandex.Practicum](https://practicum.yandex.ru/profile/data-analyst/)
 * SQL.
 
 ## Продолжительность обучения
-8 month
+8 месяцев
 
 ## Курсы
 1. [Основы Python и анализа данных]()
